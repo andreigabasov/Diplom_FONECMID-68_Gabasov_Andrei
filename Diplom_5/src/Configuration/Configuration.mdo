@@ -632,6 +632,8 @@
   <roles>Role.ВКМ_РаботаСКадрДок</roles>
   <roles>Role.ВКМ_ДобавленныеОбъекты</roles>
   <roles>Role.ВКМ_ВыработкаСпециалистов</roles>
+  <roles>Role.ВКМ_ПроведениеДокументаОбслуживаниеКлиентов</roles>
+  <roles>Role.ВКМ_ПрикрепленныеФайлыОбслуживаниеКлиентов</roles>
   <commonTemplates>CommonTemplate.ДанныеПечатиОбщиеРеквизиты</commonTemplates>
   <commonTemplates>CommonTemplate.ДанныеПечатиРегистрСимволов</commonTemplates>
   <commonTemplates>CommonTemplate.ИнструкцияКакВыполнитьНастройкуМакетаOfficeOpen</commonTemplates>
